@@ -1,5 +1,6 @@
-# Empty Project
+# Angular RackSpace Demo
 
-This is an empty project. You can:
-- Add your local files by dropping them on the left.
-- Add start command and dependencies to `package.json`.
+The Users with odd numbers will be displayed on cards with following details:
+- Name.
+- Address (Street ,City ,Postal Code)
+- Website Link
